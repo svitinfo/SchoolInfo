@@ -1,1 +1,1 @@
-# SchoolInfo
+# SchoolInfo.github.io
